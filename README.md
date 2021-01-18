@@ -1,5 +1,5 @@
 # Brain-Tumor-Classification
-Simple CNN Brain Tumor Classification in PyTorch
+Simple CNN Brain Tumor Classification + Grad-CAM in PyTorch
 
 
 
