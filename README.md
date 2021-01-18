@@ -1,4 +1,4 @@
-# Brain-Tumor-Classification
+# Project
 Simple CNN Brain Tumor Classification + Grad-CAM in PyTorch
 
 
